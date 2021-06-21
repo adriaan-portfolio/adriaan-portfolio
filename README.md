@@ -21,6 +21,6 @@ My name is Adriaan and welcome to my Project Portfolio! I am a Mechanical Engine
 
 | Contact Method |  |
 | --- | --- |
-| Professional Email | asvn90@gmail.com |
+| Email | asvn90@gmail.com |
 | LinkedIn | https://www.linkedin.com/in/adriaan-van-niekerk/ |
 
