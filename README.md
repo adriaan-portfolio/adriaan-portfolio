@@ -4,7 +4,7 @@
 
 This repository holds all of my personal projects that I've done over the years. Currently they're binned in three different categories
 
-1. [Personal Programming Projects](https://github.com/darwin-a/PersonalProjects/tree/master/Personal%20Programming%20Projects)
+1. Personal programming projects
     - Python
       - [Data extraction for lectures](https://github.com/adriaan-portfolio/tbl-data-extractor)
       - [Twitter bot](https://github.com/adriaan-portfolio/xmas-loading)
