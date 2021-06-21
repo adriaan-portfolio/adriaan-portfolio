@@ -5,15 +5,11 @@
 This repository holds all of my personal projects that I've done over the years. Currently they're binned in three different categories
 
 1. [Personal Programming Projects](https://github.com/darwin-a/PersonalProjects/tree/master/Personal%20Programming%20Projects)
-    - [Python](https://github.com/darwin-a/PersonalProjects/tree/master/Personal%20Programming%20Projects/Python)
-      - Data mining for lectures
-      - Twitter bot
-      - Discord bot
-2. [365DataScience course](https://github.com/darwin-a/PersonalProjects/tree/master/Physics%20Education%20Research)
-      - Pandas pivot dashboard
-      - SQL
+    - Python
+      - [Data extraction for lectures](https://github.com/adriaan-portfolio/tbl-data-extractor)
+      - [Twitter bot](https://github.com/adriaan-portfolio/xmas-loading)
 
-Each category has their own variety of projects and should be accompanied by some form of documentation. 
+Each project has its own README that discusses the project in more detail. 
 
 ## Background
 
